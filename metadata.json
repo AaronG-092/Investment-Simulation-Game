@@ -1,0 +1,6 @@
+{
+  "name": "Dalal Street Alpha - Investment Simulation Game",
+  "description": "An interactive Indian stock market trading simulation with real-time price charts, portfolio management, automated stop-loss/take-profit, trade journal, and 8-week performance analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
