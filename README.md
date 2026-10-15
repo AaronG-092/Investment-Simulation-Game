@@ -1,4 +1,4 @@
-# Dalal Street Alpha - Investment Simulation Game
+# Investment Simulation Game
 
 An interactive, high-fidelity Indian stock market investment simulation built with React, Vite, Tailwind CSS, Lucide Icons, and Chart.js.
 
