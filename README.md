@@ -2,6 +2,8 @@
 
 An interactive, high-fidelity Indian stock market investment simulation built with React, Vite, Tailwind CSS, Lucide Icons, and Chart.js.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/AaronG-092/dalal-street-alpha)
+
 ## Overview
 
 **Dalal Street Alpha** simulates an 8-week (40-day) trading cycle on the Indian stock market (NIFTY 50 / SENSEX). Players manage a virtual capital of ₹5,00,000, trade blue-chip Indian equities across diverse sectors, establish automated risk management rules (stop-loss / take-profit), track trade journals, and review a comprehensive performance audit upon cycle completion.
